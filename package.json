@@ -1,0 +1,17 @@
+{
+  "name": "mqueue",
+  "version": "0.0.0",
+  "description": "A library to receive data from mqueue and push it to a mongo db",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqueue",
+    "mongodb",
+    "mongoose",
+    "rabbitmq"
+  ],
+  "author": "Ashish Rai <rai.ashish115@gmail.com>",
+  "license": "BSD-2-Clause"
+}
